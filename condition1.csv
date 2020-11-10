@@ -1,2 +1,3 @@
-participant number, time going to forward, time going back, mistakes made, shortcuts taken
+participant_number, time_going_forward, time_going_back, mistakes_made, shortcuts_taken
+test, 304.46, 322.92, 1, 0
 test, 304.46, 322.92, 1, 0
