@@ -1,3 +1,4 @@
-participant_number, time_going_forward, time_going_back, mistakes_made, shortcuts_taken
-test, 124.58, 73.56, 0, 3
-test2, 169.02, 111.759995, 2, 4
+participant_number, time_going_forward, time_going_back, mistakes_made, shortcuts_taken, wander_count, wanter_time_sum
+test, 124.58, 198.14, 0, 3, 0, 0.0
+test2, 169.02, 280.78, 2, 4, 0, 0.0
+testDaniel, 432.9, 695.46, 3, 4, 0, 0.0
