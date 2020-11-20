@@ -1,4 +1,6 @@
-participant_number, time_going_forward, time_going_back, mistakes_made, shortcuts_taken, wander_count, wanter_time_sum
-test, 124.58, 198.14, 0, 3, 0, 0.0
-test2, 169.02, 280.78, 2, 4, 0, 0.0
-testDaniel, 432.9, 695.46, 3, 4, 0, 0.0
+participant_number, time_going_forward, time_going_back, mistakes_made, shortcuts_taken, wander_count, wander_time_sum, finished
+mikkel, 397.26, 667.55994, 4, 3, 1, -1.0, Left bee
+test, 124.58, 73.56, 0, 3, 1, -1.0, Left bee
+test1, 402.84, 317.4, 2, 3, 2, 11.679993, Yes
+test2, 169.02, 111.759995, 2, 4, 1, -1.0, Left bee
+testDaniel, 432.9, 262.56003, 3, 4, 1, -1.0, Left bee
